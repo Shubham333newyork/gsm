@@ -1,6 +1,9 @@
-# gsm
+# GSMBinTrackers
 
 A new Flutter project.
+
+Smart garbage management system & find nearby dustbin on app 
+for a sustainable urban life: An IoT based application
 
 ## Getting Started
 
