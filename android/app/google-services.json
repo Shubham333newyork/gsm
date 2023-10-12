@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "135701097495",
+    "project_id": "dark-knight-coder",
+    "storage_bucket": "dark-knight-coder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135701097495:android:4644fc512475db33a3c052",
+        "android_client_info": {
+          "package_name": "com.example.gsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135701097495-p8ank6a1rqk94mltsi06ob6kqnff8m6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqespD1SJl4pyfp-E4Hhs8wGc777QzwI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135701097495-p8ank6a1rqk94mltsi06ob6kqnff8m6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

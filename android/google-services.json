@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831205095732",
+    "project_id": "gsmbintrackers",
+    "storage_bucket": "gsmbintrackers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831205095732:android:92e342d9cb45f9df9f4d61",
+        "android_client_info": {
+          "package_name": "com.example.gsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831205095732-ksj9ic2lmb6rrukq00df0as6tl09cv1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuDP_m1D0IP2zFMuS066rB43RGRh98JWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831205095732-ksj9ic2lmb6rrukq00df0as6tl09cv1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
